@@ -17,14 +17,23 @@
 ## 📌 Table of Contents
 
 1. [Problem Statement](#-problem-statement)
+
 2. [Existing Solutions vs. Our Solution](#-existing-solutions-vs-our-solution-gap-analysis)
+
 3. [Why Discharge Compass AI is the Best Non-Existing Solution](#-why-discharge-compass-ai-is-the-best-non-existing-solution)
+
 4. [Core Features](#-core-features)
+
 5. [Unique Judge-Winning Features](#-unique-judge-winning-features)
+
 6. [System Architecture & Workflow](#-system-architecture--workflow)
+
 7. [Tech Stack](#-tech-stack)
+
 8. [Setup Guide](#-setup-guide)
+
 9. [Implementation Plan](#-implementation-plan)
+
 10. [Impact](#-impact)
 
 ---
