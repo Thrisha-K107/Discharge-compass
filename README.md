@@ -453,7 +453,7 @@ Expected: Structured care card generated in < 5 seconds
 
 ## 🛠️ Implementation Plan
 
-### Phase 1 — Project Foundation (Days 1–2)
+### Phase 1 — Project Foundation 
 
 **Step 1:** Initialise the project structure
 ```
@@ -485,7 +485,7 @@ npx tailwindcss init
 
 ---
 
-### Phase 2 — Core AI Feature (Days 3–4)
+### Phase 2 — Core AI Feature 
 
 **Step 6:** Build the AI simplification service
 ```
@@ -523,7 +523,7 @@ Morning = Yellow | Afternoon = Orange | Night = Blue
 
 ---
 
-### Phase 4 — Unique Features (Days 7–9)
+### Phase 4 — Unique Features 
 
 **Step 16:** Implement Voice Assistant
 ```
@@ -569,7 +569,7 @@ frontend/components/ComplianceScore.jsx
 
 ---
 
-### Phase 5 — AI Risk + Timeline (Days 10–11)
+### Phase 5 — AI Risk + Timeline 
 
 **Step 21:** Implement AI Risk Prediction Engine
 ```
@@ -597,7 +597,7 @@ backend/services/reminderService.js
 
 ---
 
-### Phase 6 — Offline Mode & PWA (Day 12)
+### Phase 6 — Offline Mode & PWA 
 
 **Step 24:** Register Service Worker for offline caching
 ```
@@ -611,7 +611,7 @@ frontend/public/service-worker.js
 
 ---
 
-### Phase 7 — Auth & Security (Day 13)
+### Phase 7 — Auth & Security 
 
 **Step 26:** Implement Doctor registration + login with JWT
 
@@ -621,7 +621,7 @@ frontend/public/service-worker.js
 
 ---
 
-### Phase 8 — Testing & Deployment (Days 14–15)
+### Phase 8 — Testing & Deployment 
 
 **Step 29:** Test all features with real discharge note samples
 ```
