@@ -1,6 +1,8 @@
 🚀 Discharge Compass AI
 Patient Discharge Instruction Simplifier System
+
 <div align="center">
+        
 ![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
